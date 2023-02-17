@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Biblioteca",
+    "coor": [7.141006773909781, -73.12092037764243],
+    "sound_number": 1447831384,
+    "grafico_link": "https://i.imgur.com/s1dwQiy.png",
+    "descripcion": "Día más ruidoso en promedio: martes (59.9 dB) </br>Hora del día más ruidosa en promedio: 10-12 (60.38dB) </br>Promedio de ruido en general: 54.744 dB"
+  },
+  {
+    "name": "Camilo Torres",
+    "coor": [7.1403287326313025, -73.12132815514748],
+    "sound_number": 1447832734,
+    "grafico_link": "https://i.imgur.com/lVUL8Am.png",
+    "descripcion": "Día más ruidoso en promedio: martes (55.18 dB) </br>Hora del día más ruidosa en promedio: 4-6 (58.1 dB) </br>Promedio de ruido en general: 49.62 dB"
+  },
+  {
+    "name": "Bienestar",
+    "coor": [7.141700935516838, -73.11970389496793],
+    "sound_number": 1447829632,
+    "grafico_link": "https://i.imgur.com/beglePD.png",
+    "descripcion": "Día más ruidoso en promedio: viernes (58.06dB) </br>Hora del día más ruidosa en promedio: 4-6 (58.28 dB) </br>Promedio de ruido en general: 51.98 dB"
+
+  },
+  {
+    "name": "Livianos",
+    "coor": [7.140086830433186, -73.1216429905902],
+    "sound_number": 1447827949,
+    "grafico_link": "https://i.imgur.com/8rtcHE9.png",
+    "descripcion": "Día más ruidoso en promedio: jueves (48.06 dB) </br>Hora del día más ruidosa en promedio: 12-2 (49.02 dB) </br>Promedio de ruido en general: 44.92 dB"
+
+  }
+]
