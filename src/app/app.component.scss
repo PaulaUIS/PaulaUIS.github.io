@@ -1,0 +1,62 @@
+/* Set the size of the div element that contains the map */
+.main__container{
+
+  margin-top: 10px;
+}
+
+.header__container{
+  width: 100%;
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.map_container{
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding:0px 60px;
+}
+.title{
+  position: relative;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+
+}
+h1,h2,h3{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+.logo_title{
+  position: absolute;
+  left: -40px;
+}
+#map {
+    height: 600px; /* The height is 400 pixels */
+    width: 90%; /* The width is the width of the web page */
+  }
+
+.contenido{
+  margin-top: 30px;
+  width: 90%;
+}
+
+.section{
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.grafico{
+  height: 450px;
+  width: auto;
+  margin: 0 auto;
+}
